@@ -1,0 +1,1 @@
+system("pause >nul | echo klik apa saja untuk melanjutkan . . .");
